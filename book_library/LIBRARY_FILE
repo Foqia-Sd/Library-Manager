@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Litreture",
+        "author": "Noam Chomsky",
+        "year": 0,
+        "genre": "18 century",
+        "read": true
+    },
+    {
+        "title": "Litreture",
+        "author": "Noam Chomsky",
+        "year": 1,
+        "genre": "18 century",
+        "read": true
+    }
+]
